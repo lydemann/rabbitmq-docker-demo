@@ -1,0 +1,10 @@
+C:\Users\chris\Documents\Repos\rabbitmq-docker-demo\Demo 2 - Worker queue\Worker\bin\Debug\netcoreapp2.0\Worker.deps.json
+C:\Users\chris\Documents\Repos\rabbitmq-docker-demo\Demo 2 - Worker queue\Worker\bin\Debug\netcoreapp2.0\Worker.runtimeconfig.json
+C:\Users\chris\Documents\Repos\rabbitmq-docker-demo\Demo 2 - Worker queue\Worker\bin\Debug\netcoreapp2.0\Worker.runtimeconfig.dev.json
+C:\Users\chris\Documents\Repos\rabbitmq-docker-demo\Demo 2 - Worker queue\Worker\bin\Debug\netcoreapp2.0\Worker.dll
+C:\Users\chris\Documents\Repos\rabbitmq-docker-demo\Demo 2 - Worker queue\Worker\bin\Debug\netcoreapp2.0\Worker.pdb
+C:\Users\chris\Documents\Repos\rabbitmq-docker-demo\Demo 2 - Worker queue\Worker\obj\Debug\netcoreapp2.0\Worker.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Repos\rabbitmq-docker-demo\Demo 2 - Worker queue\Worker\obj\Debug\netcoreapp2.0\Worker.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\Repos\rabbitmq-docker-demo\Demo 2 - Worker queue\Worker\obj\Debug\netcoreapp2.0\Worker.AssemblyInfo.cs
+C:\Users\chris\Documents\Repos\rabbitmq-docker-demo\Demo 2 - Worker queue\Worker\obj\Debug\netcoreapp2.0\Worker.dll
+C:\Users\chris\Documents\Repos\rabbitmq-docker-demo\Demo 2 - Worker queue\Worker\obj\Debug\netcoreapp2.0\Worker.pdb

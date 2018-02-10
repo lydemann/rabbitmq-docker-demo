@@ -1,0 +1,10 @@
+C:\Users\chris\Documents\Repos\rabbitmq-docker-demo\Send\bin\Debug\netcoreapp2.0\Send.deps.json
+C:\Users\chris\Documents\Repos\rabbitmq-docker-demo\Send\bin\Debug\netcoreapp2.0\Send.runtimeconfig.json
+C:\Users\chris\Documents\Repos\rabbitmq-docker-demo\Send\bin\Debug\netcoreapp2.0\Send.runtimeconfig.dev.json
+C:\Users\chris\Documents\Repos\rabbitmq-docker-demo\Send\bin\Debug\netcoreapp2.0\Send.dll
+C:\Users\chris\Documents\Repos\rabbitmq-docker-demo\Send\bin\Debug\netcoreapp2.0\Send.pdb
+C:\Users\chris\Documents\Repos\rabbitmq-docker-demo\Send\obj\Debug\netcoreapp2.0\Send.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\Repos\rabbitmq-docker-demo\Send\obj\Debug\netcoreapp2.0\Send.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\Repos\rabbitmq-docker-demo\Send\obj\Debug\netcoreapp2.0\Send.AssemblyInfo.cs
+C:\Users\chris\Documents\Repos\rabbitmq-docker-demo\Send\obj\Debug\netcoreapp2.0\Send.dll
+C:\Users\chris\Documents\Repos\rabbitmq-docker-demo\Send\obj\Debug\netcoreapp2.0\Send.pdb
